@@ -1,0 +1,101 @@
+Name:,land
+Number instances:,4
+Total Duration (Data Rows):,1277
+Data length:,158, Number Instances:, 1
+Data length:,178, Number Instances:, 1
+Data length:,350, Number Instances:, 1
+Data length:,591, Number Instances:, 1
+Time From, Time To, Data Row From, Data Row To, Data Length, Max Acc_X, Min Acc_X, Mean Acc_X, Standard Deviation Acc_X 
+101,692,100,691,591,2002,2002,2002,0
+886,1064,885,1063,178,2002,2002,2002,0
+1620,1970,1619,1969,350,2002,2002,2002,0
+80577,80735,80576,80734,158,2002,2002,2002,0
+
+ 
+ 
+Name:,Active on land
+Number instances:,1
+Total Duration (Data Rows):,41
+Data length:,41, Number Instances:, 1
+Time From, Time To, Data Row From, Data Row To, Data Length, Max Acc_X, Min Acc_X, Mean Acc_X, Standard Deviation Acc_X 
+735,776,734,775,41,2002,2002,2002,0
+
+ 
+ 
+Name:,takeoff
+Number instances:,3
+Total Duration (Data Rows):,291
+Data length:,122, Number Instances:, 1
+Data length:,75, Number Instances:, 1
+Data length:,94, Number Instances:, 1
+Time From, Time To, Data Row From, Data Row To, Data Length, Max Acc_X, Min Acc_X, Mean Acc_X, Standard Deviation Acc_X 
+1982,2057,1981,2056,75,2002,2002,2002,0
+42527,42621,42526,42620,94,2002,2002,2002,0
+59467,59589,59466,59588,122,2002,2002,2002,0
+
+ 
+ 
+Name:,flying
+Number instances:,11
+Total Duration (Data Rows):,69977
+Data length:,576, Number Instances:, 1
+Data length:,865, Number Instances:, 1
+Data length:,1387, Number Instances:, 1
+Data length:,7504, Number Instances:, 1
+Data length:,1369, Number Instances:, 1
+Data length:,444, Number Instances:, 1
+Data length:,619, Number Instances:, 1
+Data length:,35711, Number Instances:, 1
+Data length:,643, Number Instances:, 1
+Data length:,1600, Number Instances:, 1
+Data length:,19259, Number Instances:, 1
+Time From, Time To, Data Row From, Data Row To, Data Length, Max Acc_X, Min Acc_X, Mean Acc_X, Standard Deviation Acc_X 
+2457,3033,2456,3032,576,2002,2002,2002,0
+4969,6338,4968,6337,1369,2002,2002,2002,0
+4528,4972,4527,4971,444,2002,2002,2002,0
+52987,53852,52986,53851,865,2002,2002,2002,0
+6338,42049,6337,42048,35711,2002,2002,2002,0
+42621,43240,42620,43239,619,2002,2002,2002,0
+43240,43883,43239,43882,643,2002,2002,2002,0
+43883,45483,43882,45482,1600,2002,2002,2002,0
+78848,80235,78847,80234,1387,2002,2002,2002,0
+59589,78848,59588,78847,19259,2002,2002,2002,0
+45483,52987,45482,52986,7504,2002,2002,2002,0
+
+ 
+ 
+Name:,pre dive
+Number instances:,2
+Total Duration (Data Rows):,257
+Data length:,158, Number Instances:, 1
+Data length:,99, Number Instances:, 1
+Time From, Time To, Data Row From, Data Row To, Data Length, Max Acc_X, Min Acc_X, Mean Acc_X, Standard Deviation Acc_X 
+54126,54225,54125,54224,99,2002,2002,2002,0
+42130,42288,42129,42287,158,2002,2002,2002,0
+
+ 
+ 
+Name:,dve
+Number instances:,1
+Total Duration (Data Rows):,111
+Data length:,111, Number Instances:, 1
+Time From, Time To, Data Row From, Data Row To, Data Length, Max Acc_X, Min Acc_X, Mean Acc_X, Standard Deviation Acc_X 
+54225,54336,54224,54335,111,2002,2002,2002,0
+
+ 
+ 
+Name:,on water
+Number instances:,4
+Total Duration (Data Rows):,5131
+Data length:,1965, Number Instances:, 1
+Data length:,1157, Number Instances:, 1
+Data length:,1127, Number Instances:, 1
+Data length:,882, Number Instances:, 1
+Time From, Time To, Data Row From, Data Row To, Data Length, Max Acc_X, Min Acc_X, Mean Acc_X, Standard Deviation Acc_X 
+54336,55463,54335,55462,1127,2002,2002,2002,0
+55463,56345,55462,56344,882,2002,2002,2002,0
+56345,58310,56344,58309,1965,2002,2002,2002,0
+58310,59467,58309,59466,1157,2002,2002,2002,0
+
+ 
+ 
