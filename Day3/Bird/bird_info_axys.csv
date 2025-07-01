@@ -1,0 +1,39 @@
+﻿BirdId,Sex,ano,Species,Nest,Country,Colony,date_deployment,GMT_Hour,date_recovery,GMT_Hour_recover,Breed Stage,Age,HZ,Excl,BBC,obs,act_geo
+7500276,unknown,2018,Phaethon aethereus,,Cape Verde,Raso,28/02/2018,15:01:00,08/03/2018,12:18:00,chick-rearing,adult,1,No,,,
+7501394,male,2018,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,12/11/2018,09:27:00,16/11/2018,07:54:00,chick-rearing,adult,25,No,,,
+7501400,unknown,2019,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,,,13/02/2019,,,,25,yes,,no GPS data,BQ109001
+7501471,unknown,,Phaethon aethereus,,,,,,,,,,25,yes,,no GPS data,
+7501709,male,2018,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,13/11/2018,11:18:00,18/11/2018,09:58:00,chick-rearing,adult,25,No,,,
+7501710,unknown,2017,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,10/11/2017,09:35:00,18/11/2017,13:32:00,incubation,adult,1,No,,,
+7501723,female,2019,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,,,18/11/2018,,,adult,,yes,,solo tiene 2 posiciones en mar,
+7501755,unknown,2018,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,19/11/2018,08:59:00,27/11/2018,09:53:00,incubation,adult,25,No,,,
+7501876,unknown,2018,Phaethon aethereus,,Cape Verde,Raso,02/03/2018,16:05:00,06/03/2018,11:36:00,chick-rearing,adult,1,No,,,
+7501878,male,2018,Phaethon aethereus,,Cape Verde,Raso,04/03/2018,12:20:00,12/03/2018,16:30:00,chick-rearing,adult,1,No,,,
+7502351,unknown,2021,Phaethon aethereus,21,Cape Verde,Cima Islet,24/02/2021,11:00:00,08/03/2021,13:05:00,incubation,adult,25,No,,,S985
+8200009,female,2018,Phaethon aethereus,,Cape Verde,Raso,17/03/2018,15:17:00,24/03/2018,19:11:00,chick-rearing,adult,1,No,,,
+8200163,unknown,2019,Phaethon aethereus,,Cape Verde,Boavista - Ponta Roque,26/04/2019,11:46:00,14/05/2019,18:43:00,incubation,adult,25,No,,,
+8200445,unknown,2019,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,22/04/2019,09:38:00,29/04/2019,09:22:00,incubation,adult,25,No,,,
+8200473,unknown,2019,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,09/05/2019,08:53:00,24/05/2019,09:26:00,chick-rearing,adult,25,No,,incomplete,
+8200487,unknown,2019,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,22/04/2019,09:01:00,04/05/2019,09:52:00,incubation,adult,25,No,,,BM321001
+8200474,unknown,2019,Phaethon aethereus,,,Boavista - Ponta Sol e Rincon,,,30/05/2019,,,,25,yes,,no GPS data,
+8200718,unknown,2019,Phaethon aethereus,,Cape Verde,Boavista - Ponta Sol e Rincon,22/02/2019,09:25:00,08/03/2019,09:43:00,incubation,adult,25,No,,,
+8201653,unknown,2021,Phaethon aethereus,36,Cape Verde,Cima Islet,11/01/2021,13:13:00,21/01/2021,10:20:00,chick-rearing,adult,25,No,,,
+8201660,unknown,2021,Phaethon aethereus,21,Cape Verde,Cima Islet,27/01/2021,09:54:00,06/02/2021,11:28:00,incubation,adult,25,No,,,
+8201666,unknown,2021,Phaethon aethereus,37,Cape Verde,Cima Islet,23/01/2021,12:01:00,04/02/2021,13:52:00,chick-rearing,adult,25,No,,,BG930
+8201667,unknown,2021,Phaethon aethereus,21,Cape Verde,Cima Islet,13/01/2021,12:16:00,21/01/2021,11:19:00,chick-rearing,adult,25,No,,,
+8201674,unknown,2021,Phaethon aethereus,14,Cape Verde,Cima Islet,23/01/2021,11:14:00,10/02/2021,11:00:00,chick-rearing,adult,25,No,,,BH184
+8201700,unknown,2021,Phaethon aethereus,45,Cape Verde,Cima Islet,30/01/2021,10:18:00,07/02/2021,11:14:00,chick-rearing,adult,25,No,,,
+8201716,unknown,2021,Phaethon aethereus,36,Cape Verde,Cima Islet,07/02/2021,10:06:00,15/02/2021,09:46:00,chick-rearing,adult,25,yes,,no data,
+7502354,unknown,2021,Phaethon aethereus,25,Cape Verde,Cima Islet,05/02/2021,09:51:00,21/02/2021,09:33:00,chick-rearing,adult,25,yes,,no data,BH192
+8201701,unknown,2021,Phaethon aethereus,21,Cape Verde,Cima Islet,13/02/2021,10:38:00,21/02/2021,11:27:00,chick-rearing,adult,25,No,,,
+8201711,unknown,2021,Phaethon aethereus,29,Cape Verde,Cima Islet,11/01/2021,11:19:00,25/01/2021,10:42:00,incubation,adult,25,No,,,
+8201720,unknown,2020,Phaethon aethereus,,Cape Verde,Cima Islet,21/12/2020,12:43:00,31/12/2020,11:34:00,incubation,adult,25,No,,,
+8201679,unknown,2021,Phaethon aethereus,28,Cape Verde,Cima Islet,05/02/2021,11:13:00,,,incubation,adult,25,yes,,Not recovered,S929
+8202087,unknown,2021,Phaethon aethereus,23,Cape Verde,Cima Islet,13/02/2021,09:45:00,08/03/2021,12:38:00,chick-rearing,adult,25,No,,,
+8201718,unknown,2021,Phaethon aethereus,25?,Cape Verde,Cima Islet,24/02/2021,12:33:00,,,chick-rearing,adult,25,yes,,Not recovered,BR073
+8201959,unknown,2020,Phaethon aethereus,,Cape Verde,Cima Islet,21/12/2020,11:27:00,29/12/2020,12:11:00,incubation,adult,25,No,,,
+8201724,unknown,2021,Phaethon aethereus,45,Cape Verde,Cima Islet,17/02/2021,12:14:00,,,incubation,adult,25,yes,,Not recovered,BR100
+8201689,unknown,2021,Phaethon aethereus,27,Cape Verde,Cima Islet,30/03/2021,10:50:00,09/04/2021,14:11:00,incubation,adult,25,No,,,BR070
+7502351,unknown,2021,Phaethon aethereus,3,Cape Verde,Cima Islet,12/04/2021,09:41:00,20/04/2021,08:48:00,chick-rearing,adult,25,No,,,BR084
+8201658,unknown,2022,Phaethon aethereus,46,Cape Verde,Cima Islet,19/02/2021,10:44:00,11/03/2021,12:48:00,incubation,adult,25,No,,,BR098
+8200501,unknown,2023,Phaethon aethereus,3,Cape Verde,Cima Islet,25/03/2021,12:31:00,08/04/2021,18:00:00,chick-rearing,adult,25,No,,,S943
