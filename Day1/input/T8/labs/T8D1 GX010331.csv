@@ -1,0 +1,5 @@
+Observation id,Observation date,Description,Observation duration,Observation type,Source,Time offset (s),Media duration (s),FPS,Subject,Behavior,Behavioral category,Behavior type,Time,Media file name,Image index,Image file path,Comment
+T8D1 GX010331,2024-03-11 18:43:18.527,time,1660.720,Media file(s),player #1:D:/backup/Turtle_8_1203/day1/GX010331.MP4,1678607666.0,2063.360,25.000,,UTC time,,POINT,1678607674.840,Not found,NA,NA,08:54:33 CET
+T8D1 GX010331,2024-03-11 18:43:18.527,time,1660.720,Media file(s),player #1:D:/backup/Turtle_8_1203/day1/GX010331.MP4,1678607666.0,2063.360,25.000,,gopro_time,,POINT,1678607674.960,Not found,NA,NA,08:54:33
+T8D1 GX010331,2024-03-11 18:43:18.527,time,1660.720,Media file(s),player #1:D:/backup/Turtle_8_1203/day1/GX010331.MP4,1678607666.0,2063.360,25.000,,swimming,,START,1678609330.880,Not found,41622,NA,
+T8D1 GX010331,2024-03-11 18:43:18.527,time,1660.720,Media file(s),player #1:D:/backup/Turtle_8_1203/day1/GX010331.MP4,1678607666.0,2063.360,25.000,,swimming,,STOP,1678609335.560,Not found,41739,NA,
